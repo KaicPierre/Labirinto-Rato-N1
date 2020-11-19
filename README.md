@@ -1,9 +1,12 @@
-# Labirinto-Rato-N1
- Labirinto do Rato feito durante o Segundo Semestre de CCO na Universidade Anhembi Morumbi - Trabalho N1
+# Trabalho N1 - Técnica de Programação
+Trabalho N1 da disciplina Técnica de Programação feito no segundo semestre de Ciência da Computação pela Universidade Anhembi Morumbi
 
-### INTEGRANTES:
-- Cristhian Rodrigues Guimarães - 21364668
+---
+#### INTEGRANTES:
 
-- Gustavo Ribeiro da Silva - 21463591
+Nome                          |    RA
+---                           |--- 
+Kaic Pierre Silva             | 21364668
+Gustavo Ribeiro da Silva      | 21463591
+Cristhian Rodrigues Guimarães | 21364668
 
-- Kaic Pierre Silva - 21386826
